@@ -1,0 +1,10 @@
+Package: com.jimmyneutron.nolsdate
+Name: NoLSDate
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Milo Darling
+Author: Milo Darling
+Section: Tweaks
+Version: 0.0.1-2
+Installed-Size: 16
