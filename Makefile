@@ -1,3 +1,6 @@
+TARGET := iphone:clang
+ARCHS = armv7 arm64
+
 include theos/makefiles/common.mk
 
 TWEAK_NAME = NoLSDate
